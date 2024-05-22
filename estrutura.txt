@@ -1,0 +1,29 @@
+	{root}E:/Common Files/Lobsystem/ChatBot
+	{pasta}data/
+		{pasta}pdfs/
+		{pasta}processed
+	{pasta}models/
+		{pasta}my_chatbot_model
+			{pasta}assets/
+			{pasta}variables/
+				{arquivo}variables.data-00000-of-00001
+				{arquivo}variables.index
+			{arquivo}fingerprint.pb
+			{arquivo}keras_metadata.pb
+			{arquivo}saved_model.pb
+	{pasta}src/
+		{arquivo}api.py
+		{arquivo}app.py
+		{arquivo}chatbot_model.py
+		{arquivo}extract_text.py
+		{arquivo}pdf_processing.py
+		{arquivo}text_processing.py
+	{pasta}static/
+		{arquivo}chat.js
+		{arquivo}styles.css
+	{pasta}templates/
+		{arquivo}chat.html
+			
+		
+			
+		
